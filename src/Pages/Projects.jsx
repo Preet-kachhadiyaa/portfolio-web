@@ -4,7 +4,7 @@ import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { Link } from "react-router-dom";
 
-import { projects } from "./projectData";
+import { projects } from "./ProjectData";
 
 const Projects = () => {
   // Component for a single project

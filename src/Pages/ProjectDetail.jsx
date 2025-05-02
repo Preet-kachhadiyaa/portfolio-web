@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 // Import shared project data
-import { projects } from "./projectData";
+import { projects } from "./ProjectData";
 
 const ProjectDetail = () => {
   const { id } = useParams();
