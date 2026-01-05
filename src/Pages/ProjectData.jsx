@@ -98,6 +98,6 @@ export const projects = [
         "Real-Time Data Analytics for Admin Monitoring",
         "Parking Lot Location Mapping and Navigation"
       ],      
-      link: "/public/Park Heaven.pdf"
+      link: "/public/Park-Heaven.pdf"
     },
 ];
